@@ -12,7 +12,7 @@ The user stories are created as milestones.
 The implementation plan is broken down into work item issues which are associated with the milestone.
 The sprint starts once the sprint planning is done and lasts for a week.
 
-
+## Creating user stories
 ### Template for user story
 ```
 Title: A short, descriptive title.
@@ -32,6 +32,29 @@ Notes
 - Dependencies.
 - Related user stories.
 ```
+Each story is assigned a priority based on how important it is to production.
+
+## Technical refinement
+The developers prepare for a refinement meeting for a specific user story and discuss the way to implement it.
+The decided upon implementation plan is documented and an estimate of the amount work is done.
+Separate work item issues are created based on the implementation plan and associated with the story milestone.
+
+## Sprint planning
+Based on the dependencies, priority and work estimate, the developers decide on which stories to work on during the sprint.
+Individual work items are scheduled for the sprint - put into the ready column on the project board.
+Developers are assigned to the user stories and know which work items they should work on.
+
+## Sprint
+The developers implement the work items.
+If anything is unclear regarding the implementation, a technical refinement is scheduled if necessary.
+If anything is unclear regarding the acceptance criteria, a user story meeting is scheduled if necessary.
+
+## Retrospective
+Once the sprint is over, the devs meet and
+- Go through the project board
+- Discuss what went well
+- Discuss what could have gone better
+- Write down actions to take to improve the next sprint
 
 ## Resources
 - [Design](https://www.figma.com/file/jfcyr8KAdFYhXDVyZLfYf2/Trailblazer-mock?type=design&node-id=0-1&mode=design&t=bM8tgbpJXEaK9RGt-0)
