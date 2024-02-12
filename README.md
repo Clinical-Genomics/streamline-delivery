@@ -4,7 +4,7 @@ This is a repository for project management in the streamline-delivery project.
 ## How we work
 - Build backlog with user stories
 - Separate technical refinement
-- Separate sprint planning meeting
+- Separate sprint planning
 - Sprint where we execute the plan
 - Sprint retrospective
 
