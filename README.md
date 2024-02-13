@@ -8,8 +8,8 @@ This is a repository for project management in the streamline-delivery project.
 - Sprint where we execute the plan
 - Sprint retrospective
 
-The user stories are created as milestones.
-The implementation plan is broken down into work item issues which are associated with the milestone.
+The user stories are created as milestones [here in this repo](https://github.com/Clinical-Genomics/streamline-delivery/milestones).
+The implementation plan is broken down into [work item issues](https://github.com/Clinical-Genomics/streamline-delivery/issues?q=is%3Aopen+is%3Aissue+label%3A%22Work+item%22) which are associated with the milestone.
 The sprint starts once the sprint planning is done and lasts for a week.
 
 
